@@ -14,7 +14,7 @@ package com.group4.applicationdevelopment;
 public class ApplicationDevelopment {
 
     public static void main(String[] args) {
-        Option option = new Option();
-        option.setVisible(true);
+        Option luachon = new Option();
+        luachon.setVisible(true);
     }
 }
